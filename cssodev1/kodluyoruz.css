@@ -1,0 +1,116 @@
+body
+{
+  margin: 0;
+  padding: 0;
+}
+.box {
+  width: 250px;
+  height: 250px;
+  padding: 20px;
+  /*margin: 10px;*/
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+/* yanına Alma */
+/* float: left; */
+
+}
+/* Temizleme aracı */
+.clear {
+  clear: both;
+}
+
+.container{
+  
+  width: 1000px;
+  /*margin-left: auto;
+  margin-right: auto; */ 
+  margin: 50px auto 0;
+  
+
+  
+}
+.content{
+  width: 800px;
+  float: left;
+}
+.card{
+  width: 20%;
+  float: left;
+  padding: 5%;
+  background-color: #344446;
+  margin-right: 3%;
+  border-radius: 10px;
+}
+.gradient{
+  background: linear-gradient(135deg,rgba(112,73,186,0.6785938262939453),rgba(233,80,149,0.3910938262939453))!important;
+
+}
+.btn{
+  padding: 10px 20px;
+  border-radius: 25px;
+  color: white;
+  text-decoration: none;
+}
+
+.left-bar{
+  width: 750px;
+  float: left;
+  background-color: #344446;
+  border-radius: 10px;
+  margin: 0 0 20px;
+  padding: 20px;
+  
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+
+/*
+h2 {
+  color: red;
+  font-size: 50px;
+}
+p {
+  color: black;
+  font-size: 20px;
+}
+ ilk ve son üyeleri renklendirme 
+li:first-child {
+  color:slateblue;
+}
+
+li:last-child {
+  color: darkgoldenrod;
+}
+
+
+ İçerden Seçilen Üyeyi renklendirme 
+li:nth-child(3) {
+  color:seagreen;
+}
+
+
+ odd : tekli sayıları even ciftli sayıları 
+
+li:nth-child(odd) {
+  color:rgb(204, 238, 9);
+}
+
+li:nth-child(even) {
+  color:rgb(245, 7, 7);
+}
+*/
+-------------------------------------------------------------------
+
